@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 Student at ITT Blaise Pascal (FC)<br>🌱 Currently learning Front-End Dev, Python and GameDev(C#-Unity)<br>🏆 HackTheBox and Olicyber partecipant<br>🗣️ Always happy to learn new things and meet new people!
+🏫 Student at ITT Blaise Pascal (FC)<br>🌱 Currently learning Front-End Dev, C# and GameDev(C#-Unity-PixelArt)<br>🗣️ Always happy to learn new things and meet new people!
 
 
 ## 🌐 Socials:
