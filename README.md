@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS Student @ ITT Blaise Pascal → Unibo<br>    🌐 Current focus: Web Technologies & Cybersecurity.<br>    🌱 Learning: Low-level (C & C++).<br>    🏆 Won BCC Bank Merit Scholarship.<br>    🎷 Curious, collaborative, jazz lover
+CS Student @ ITT Blaise Pascal → Unibo<br>    🌐 Current focus: Web Technologies & Cybersecurity.<br>    🌱 Learning: Low-level (C & C++).<br>    🏆 Won BCC Bank Merit Scholarship x2 .<br>    🎷 Curious, collaborative, jazz lover
 
 
 # 💻 Tech Stack:
